@@ -2,8 +2,6 @@
 File:    proj3.py
 Author:  Ara Carmel Quinones
 Date:    5/11 /20
-Section: 35
-E-mail:  aquinon1@umbc.edu
 Description:
 
 In Project 3, you will build a family tree program.
